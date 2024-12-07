@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    border: 5px solid brown;
+    padding: 5px 10px 5px 10px;
+    margin: 30px 5px 0px 5px;
+    background-color: #FFD162;
+    border-radius: 50px;
+}
+
+font {
+    background-color: ;
+    padding: 5px;
+    background-color: #FFCA4A;
+}
+
+footer p {
+    font-size: 20px;
+}
+footer{
+    background-color:#B4964F;
+    padding: 5px 0px 5px 10px; 
+}
